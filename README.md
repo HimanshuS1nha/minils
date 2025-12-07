@@ -38,3 +38,7 @@ cargo build --release
 - `-v`, `--version` – Print version
 - `--help` – Show usage guide
 - Color-coded output for directories, symlinks, and files
+
+## Demo
+
+Live Demo - [Click Here](https://www.youtube.com/watch?v=mbrClB_ikFw)
